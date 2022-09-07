@@ -1,0 +1,19 @@
+{
+  "name": "transform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "decimal.js": "^10.4.0",
+    "typescript": "^4.8.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.15",
+    "ts-node": "^10.9.1"
+  },
+  "scripts": {
+    "ts": "ts-node ./transform.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
